@@ -4,19 +4,33 @@
 Hola, soy Izan Jiménez Ruiz, estudiante de 2º de Desarrollo de Aplicaciones Web. En este repositorio voy subiendo las prácticas que realizo a lo largo del curso, organizadas por módulo. Sirve como portfolio y como registro de mi progreso.
 
 📍 Centro: Instituto Matemático Puig Adam
+
 🎓 Ciclo: Desarrollo de Aplicaciones Web (DAW)
+
 📅 Curso: 2025/2027
+
 📫 Contacto: izan.jimenezrz@gmai.com
+
 🔗 LinkedIn: www.linkedin.com/in/izan-jiménez-ruiz-642b22294
+
 📚 Estructura del repositorio
+
 📦 practicas-2daw
+
  ┣ 📂 desarrollo-web-entorno-cliente
+ 
  ┣ 📂 desarrollo-web-entorno-servidor
+ 
  ┣ 📂 despliegue-aplicaciones-web
+ 
  ┣ 📂 diseno-interfaces-web
+ 
  ┣ 📂 proyecto-final
+ 
  ┗ 📄 README.md
+ 
 Módulo	Contenido	Tecnologías
+
 Desarrollo Web en Entorno Cliente	Prácticas de JavaScript, DOM, eventos, asincronía (AJAX/fetch)	JavaScript, HTML, CSS
 Desarrollo Web en Entorno Servidor	Aplicaciones con backend, bases de datos y APIs	[PHP / Java / Node...], SQL
 Despliegue de Aplicaciones Web	Servidores web, Docker, publicación de aplicaciones	Apache, Docker, Linux
