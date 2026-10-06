@@ -7,7 +7,7 @@ Hola, soy Izan Jiménez Ruiz, estudiante de 2º de Desarrollo de Aplicaciones We
 
 🎓 Ciclo: Desarrollo de Aplicaciones Web (DAW)
 
-📅 Curso: 2025/2027
+📅 Curso: 2026/2027
 
 📫 Contacto: izan.jimenezrz@gmai.com
 
