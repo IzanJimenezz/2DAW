@@ -21,9 +21,7 @@ Hola, soy Izan Jiménez Ruiz, estudiante de 2º de Desarrollo de Aplicaciones We
  
  ┣ 📂 desarrollo-web-entorno-servidor
  
- ┣ 📂 despliegue-aplicaciones-web
- 
- ┣ 📂 diseno-interfaces-web
+ ┣ 📂 Python_con_IA
  
  ┣ 📂 proyecto-final
  
